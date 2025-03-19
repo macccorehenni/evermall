@@ -3,6 +3,8 @@ sticker: lucide//bed-single
 alias: Infinite IKEA
 ---
 # Infinite Ikea
+>[!NOTE]
+>This is directly from the SCP wiki, which is licenced under [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 **Item #:** SCP-3008
 
