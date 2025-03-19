@@ -5,7 +5,7 @@ aliases: [Timelline]
 linter-yaml-title-alias: Timelline
 ---
 
-# Timelline
+# Timeline
 ```timeline
 + 1 January 0
 + Founding of Evermall
