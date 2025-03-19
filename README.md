@@ -1,6 +1,1 @@
-```dataview
-list rows.file.link
-sort file.name asc
-group by file.folder
-sort file.name asc 
-```
+See [[Files in Overmall]] for an index, and see [[Beginnings|CS1]] for the idea.
