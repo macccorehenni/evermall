@@ -13,6 +13,6 @@ header div h1, .callout
 h1, h2, h3, h4, h5, h6, .py-1 {
   font-family: "Funnel Sans", sans !important;
 }
- .bg-background {
+ .bg-background, .top-0 {
   background-color: beige !important;
 }
