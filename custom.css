@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
 .font-normal {
   font-family: "Bodoni Moda", serif !important;
-  font-weight: bold;}
+  font-weight: bold !important;}
 .font-light {
   font-family: "Bodoni Moda", serif !important;
   font-weight: lighter !important;
